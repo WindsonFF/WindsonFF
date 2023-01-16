@@ -1,7 +1,9 @@
 
 - 🔭 I'm currently working on JavaScript/TypeScript/Vue
 
-![WindsonFF - github stats](https://github-readme-stats.vercel.app/api?username=WindsonR&show_icons=true)
+
+[![Windson](https://github-readme-stats.vercel.app/api?username=WindsonR)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **WindsonFF/WindsonFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

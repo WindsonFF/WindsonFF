@@ -2,7 +2,7 @@
 - 🔭 I'm currently working on JavaScript/TypeScript/Vue
 
 
-[![Windson](https://github-readme-stats.vercel.app/api?username=WindsonR)](https://github.com/anuraghazra/github-readme-stats)
+[![WindsonR](https://github-readme-stats.vercel.app/api?username=WindsonR)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

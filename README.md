@@ -1,8 +1,7 @@
 
 - 🔭 I'm currently working on JavaScript/TypeScript/Vue
 
-
-[![WindsonR](https://github-readme-stats-ruby-one.vercel.app/api?username=WindsonR)](https://github.com/anuraghazra/github-readme-stats)
+![WindsonFF - github stats](https://github-readme-stats.vercel.app/api?username=WindsonR&show_icons=true)
 
 
 <!--
